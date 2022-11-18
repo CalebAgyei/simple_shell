@@ -16,3 +16,6 @@ In non-interactive mode, echo your desired command and pipe it into the program 
 echo "ls" | ./shell
 In non-interactive mode, the program will exit after finishing your desired command(s).
 
+Credits
+All code written by Caleb Agyei and Lesego Nkosi
+
